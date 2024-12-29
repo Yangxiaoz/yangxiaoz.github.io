@@ -47,7 +47,7 @@ education:
   - area: B.Eng in Automation
     institution: TianJin University
     date_start: 2020-09-01
-    date_end: 2024-7-31
+    date_end: 2024-07-31
     summary: |
       GPA: 3.61/4.0
 
