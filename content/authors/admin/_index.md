@@ -30,6 +30,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yang_xl@tju.edu.cn'
     label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Yangxiaoz
   - icon: custom/zhihu
     url: https://www.zhihu.com/people/ambiguous-43-40
 
@@ -51,10 +53,10 @@ education:
     summary: |
       GPA: 3.61/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - area: BSc Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -95,15 +97,15 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: C++
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: Cuda
         description: ''
         percent: 40
         icon: devicon/pytorch
@@ -111,11 +113,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: learning
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: learning
         description: ''
         percent: 100
         icon: cat
@@ -125,12 +127,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: CET6
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
